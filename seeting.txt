@@ -1,0 +1,3 @@
+install and initialize venv 
+poetry init 
+poetry add uvicorn fastapi 
